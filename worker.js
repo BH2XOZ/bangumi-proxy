@@ -20,8 +20,8 @@
  */
 
 // ====== CONFIG（必填：填你的两个域名）======
-const API_HOST = "api.example.com"; // 你的 API 域名（代理 api.bgm.tv）
-const IMG_HOST = "img.example.com"; // 你的图片域名（代理 lain.bgm.tv）
+const API_HOST = "bapi.hcy521.xyz"; // 你的 API 域名（代理 api.bgm.tv）
+const IMG_HOST = "bimg.hcy521.xyz"; // 你的图片域名（代理 lain.bgm.tv）
 
 // 上游（不要改）
 const BGM_API = "api.bgm.tv";
